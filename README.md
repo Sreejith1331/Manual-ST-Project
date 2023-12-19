@@ -1,0 +1,1 @@
+TestCase_BugReport_ChallengeInstitution is the manual software testing project I have done. Here I chose Challenge Institution's website for my project. I have created test cases for the website and I can find some bugs in it. So I created the bug report also.
