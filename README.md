@@ -1,1 +1,1 @@
-I have completed a manual software testing project named 'TestCase_BugReport_ChallengeInstitution'. For this project, I selected the website of Challenge Institution. I have created test cases for the website and detected some bugs. Therefore, I have also prepared a bug report.
+I have completed a manual software testing project named 'TestCase_BugReport_ChallengeInstitution'. For this project, I selected the website of Challenge Institution. I have created test cases for the website and detected valid bugs in it. Therefore, I have also prepared a bug report.
